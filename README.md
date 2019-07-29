@@ -1,2 +1,3 @@
 # HelloWorld
-it is a beginner
+It is a beginner
+this is the hello world demo.
